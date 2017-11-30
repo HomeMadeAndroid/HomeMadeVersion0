@@ -65,12 +65,7 @@
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Butto" />
-
-<Button
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:text="Buton"/>
+                android:text="Bnt" />
 
         </LinearLayout>
     </ScrollView>
