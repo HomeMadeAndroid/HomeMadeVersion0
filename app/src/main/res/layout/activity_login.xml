@@ -62,10 +62,12 @@
                     android:singleLine="true" />
 
             </android.support.design.widget.TextInputLayout>
+
             <Button
+                style="@style/Widget.AppCompat.Button.Borderless"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Bnt" />
+                android:text="@string/bnt" />
 
         </LinearLayout>
     </ScrollView>
